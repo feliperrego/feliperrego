@@ -1,6 +1,6 @@
 # Felipe Rêgo
 
-**Desenvolvedor Full Stack Sênior** · React · React Native · Next.js · Node.js · Produtos com IA
+**Desenvolvedor Full Stack Sênior** · React · React Native · Next.js · Node.js · Produtos com IA<br>
 Fortaleza, Brasil · aberto a vagas remotas ou presenciais/híbridas em Fortaleza
 
 15 anos construindo produtos web e mobile em React e Node.js, os últimos 7 em produtos financeiros. Hoje também construo funcionalidades com IA: busca com citações verificáveis, assistentes de suporte e agentes que só agem com aprovação humana. Cada projeto abaixo tem demo ao vivo, código aberto e um resultado medido.
